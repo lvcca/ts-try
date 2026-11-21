@@ -1,0 +1,29 @@
+{
+  "name": "@lvcca/ts-try",
+  "version": "1.0.1",
+  "description": "TypeScript general try utility wrapper.",
+  "main": "./dist/_globals.js",
+  "types": "./global.d.ts",
+  "files": [
+    "dist/",
+    "global.d.ts"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvcca/ts-try/tree/main"
+  },
+  "homepage": "https://github.com/lvcca/ts-try/blob/main/README.md",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.0"
+  },
+  "keywords": [
+    "typescript",
+    "try",
+    "test-utilities",
+    "developer-tools"
+  ]
+}
