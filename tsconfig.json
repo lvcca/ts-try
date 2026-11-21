@@ -7,5 +7,5 @@
     "strict": true,
     "declaration": false
   },
-  "include": ["src/_globals.ts"]
+  "include": ["src/_globals.ts", "global.d.ts"]
 }
